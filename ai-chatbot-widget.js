@@ -113,7 +113,16 @@
             speed: "🐌 Slower (Powerful)",
             description: "Large powerful model, highest quality",
             recommended: "Best quality, complex tasks"
-        }
+        },
+        {
+            id: "SmolLM2-360M-Instruct-q4f32_1-MLC",
+            name: "SmolLM2-360M",
+            size: "~300MB",
+            params: "360M",
+            speed: "⚡⚡⚡ Very Fast",
+            description: "Small but capable, balanced performance",
+            recommended: "General chat, quick tasks"
+        },
     ];
     
     const SYSTEM_PROMPT = "You are a helpful, friendly AI assistant. You provide concise, accurate, and helpful responses. You are knowledgeable, polite, and aim to assist users with their questions.";
