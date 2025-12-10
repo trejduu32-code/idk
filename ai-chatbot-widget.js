@@ -116,7 +116,7 @@
         }
     ];
     
-    const SYSTEM_PROMPT = "You are a helpful, friendly AI assistant running locally in the user's browser. You provide concise, accurate, and helpful responses. You are knowledgeable, polite, and aim to assist users with their questions.";
+    const SYSTEM_PROMPT = "You are a helpful, friendly AI assistant. You provide concise, accurate, and helpful responses. You are knowledgeable, polite, and aim to assist users with their questions.";
     
     // ============================================
     // STATE
