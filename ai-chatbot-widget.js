@@ -2,6 +2,7 @@
  * AI Chatbot Widget - WebLLM Powered
  * One-line integration: <script src="ai-chatbot-widget.js"></script>
  * 
+ * no right to change the code!
  * Features:
  * - Runs 100% locally in browser (WebLLM + WebGPU)
  * - No API keys or server required
